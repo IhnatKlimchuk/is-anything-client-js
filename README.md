@@ -1,5 +1,5 @@
 # is-anything-client
-An npm package for is-anything.com that check if an argument is anything.
+An npm package for is-anything.com that allows to check subject against anything.
 
 ## Purpose
 
