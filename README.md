@@ -1,5 +1,5 @@
 # is-anything
-Check anything
+Check if an argument is anything
 
 ## License
 

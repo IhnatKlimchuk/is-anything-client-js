@@ -1,0 +1,27 @@
+{
+  "name": "is-anything",
+  "version": "0.1.1",
+  "description": "Check if an argument is anything",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhnatKlimchuk/is-anything.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "is"
+  ],
+  "author": "Ihnat Klimchuk <ihnat.klimchuk@gmail.com>",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/IhnatKlimchuk/is-anything/issues"
+  },
+  "homepage": "https://github.com/IhnatKlimchuk/is-anything#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
