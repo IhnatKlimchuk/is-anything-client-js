@@ -1,0 +1,2 @@
+# is-anything
+Check anything
