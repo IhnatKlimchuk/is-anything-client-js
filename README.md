@@ -1,7 +1,7 @@
 # is-anything-client
-An npm package for is-anything.com that check if an argument is anything.
+An [npm package](https://www.npmjs.com/package/is-anything-client) for is-anything.com that allows to check subject against anything.
 
-## History
+## Purpose
 
 Package was created as a replacement for [is-thirteen](https://github.com/jezen/is-thirteen) and [is-not-thirteen](https://github.com/haggy/is-not-thirteen) packages. Original packages contain too many issues and huge dev response time while world is not sleeping and requirements are constantly changing.  
 
@@ -27,6 +27,10 @@ await is('youtube').down();
 ```shell
 npm test
 ```
+
+## Server
+
+Currently server under extremely agile development. You can find it here: [is-anything-server](https://github.com/IhnatKlimchuk/is-anything-server)
 
 ## License
 
