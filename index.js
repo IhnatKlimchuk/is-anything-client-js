@@ -1,7 +1,5 @@
-'use strict';
-
 const axios = require('axios');
-const apiUrl = 'http://localhost:5000/api/is';
+const apiUrl = 'https://is-anything.com/api/record';
 
 var is = function is(x) {
     return new Proxy({}, {
