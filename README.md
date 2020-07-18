@@ -1,5 +1,5 @@
 # is-anything-client
-An [npm package](https://www.npmjs.com/package/is-anything-client) for is-anything.com that allows to check subject against anything.
+An [npm package](https://www.npmjs.com/package/is-anything-client) for [is-anything.com](https://is-anything.com) that allows to check subject against anything.
 
 ## Purpose
 
